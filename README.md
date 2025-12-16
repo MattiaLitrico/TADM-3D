@@ -88,7 +88,7 @@ The repository will include training, inference, evaluation scripts, and configu
 
 If you use this work, please cite:
 
-# CMIG
+### CMIG
 ```bibtex
 @article{litrico2025tadm3d,
   title   = {Temporally-Aware Diffusion Model for Brain Progression Modelling with Bidirectional Temporal Regularisation},
@@ -97,7 +97,7 @@ If you use this work, please cite:
   year    = {2025}
 }
 ```
-# MICCAI 2024
+### MICCAI 2024
 ```bibtex
 @inproceedings{litrico2024tadm,
   title     = {TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI},
