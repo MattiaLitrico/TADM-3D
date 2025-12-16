@@ -41,7 +41,7 @@ This work **extends our previous MICCAI 2024 paper**:
 
 ### TADM-3D Framework
 <p align="center">
-  <img src="figures/main_fig.png" width="800">
+  <img src="main_fig.png" width="800">
 </p>
 
 **Training:**  
@@ -54,7 +54,7 @@ Given a single baseline MRI and a desired future time gap, TADM-3D generates a p
 
 ### Temporal Progression Example
 <p align="center">
-  <img src="figures/qualitative_results.png" width="800">
+  <img src="qualitative_results.png" width="800">
 </p>
 
 Comparison with state-of-the-art methods shows improved modelling of ventricular expansion and disease-related anatomical changes.
@@ -72,7 +72,7 @@ Comparison with state-of-the-art methods shows improved modelling of ventricular
 TADM-3D achieves **state-of-the-art performance** on both internal and external datasets.
 
 <p align="center">
-  <img src="figures/quantitative_results.png" width="800">
+  <img src="quantitative_results.png" width="800">
 </p>
 
 ---
